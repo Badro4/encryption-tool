@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/encryption-tool/static/css/main.1123df14.css",
+    "main.js": "/encryption-tool/static/js/main.03264e9a.js",
+    "static/js/453.2c5ab9ab.chunk.js": "/encryption-tool/static/js/453.2c5ab9ab.chunk.js",
+    "static/media/lock1.svg": "/encryption-tool/static/media/lock1.93585198f8e9cf3dfe6a06e8d982f820.svg",
+    "static/media/arrow.svg": "/encryption-tool/static/media/arrow.e20667d49ee38afb7dc405092eac370d.svg",
+    "index.html": "/encryption-tool/index.html",
+    "static/media/polygon-scatter-haikei4.svg": "/encryption-tool/static/media/polygon-scatter-haikei4.fcbeda6d9c1e0fa940da.svg",
+    "main.1123df14.css.map": "/encryption-tool/static/css/main.1123df14.css.map",
+    "main.03264e9a.js.map": "/encryption-tool/static/js/main.03264e9a.js.map",
+    "453.2c5ab9ab.chunk.js.map": "/encryption-tool/static/js/453.2c5ab9ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1123df14.css",
+    "static/js/main.03264e9a.js"
+  ]
+}
