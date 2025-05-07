@@ -2,7 +2,6 @@
 
 A React-based web application that allows users to encrypt text live using different cryptographic algorithms.
 
-![Demo Screenshot](./src/assets/demo.png) 
 ##  Features
 
 - Three encryption algorithms currently:
