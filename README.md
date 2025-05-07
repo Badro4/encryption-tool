@@ -33,8 +33,8 @@ A React-based web application that allows users to encrypt text live using diffe
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Badro4/encryption-tool.git
+cd encryption-tool
 npm install
 ```
 Then run the development server
